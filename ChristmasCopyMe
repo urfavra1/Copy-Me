@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Merry Christmas</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to bottom right, #fef6f0, #fff);
+      color: #333;
+      padding: 40px;
+      max-width: 600px;
+      margin: auto;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      text-align: center;
+      color: #c62828;
+      font-size: 36px;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      text-align: center;
+      color: #ad1457;
+      font-weight: normal;
+      font-size: 20px;
+      margin-bottom: 30px;
+    }
+
+    p {
+      font-size: 16px;
+      line-height: 1.6;
+    }
+
+    .signature {
+      margin-top: 40px;
+      text-align: right;
+      font-style: italic;
+      color: #555;
+    }
+
+    .snowflake {
+      text-align: center;
+      font-size: 24px;
+      color: #90caf9;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="snowflake">❄️ ❄️ ❄️</div>
+  <h1>Merry Christmas</h1>
+  <h2>Wishing you peace, love, and warmth this holiday season.</h2>
+
+  <p>
+    Hi Leng,<br><br>
+    Merry Christmas! I hope this season brings you nothing but comfort and calm. I know life can get busy and overwhelming, but for now, I hope you allow yourself to pause, breathe, and simply enjoy the stillness of the holidays.
+  </p>
+
+  <p>
+    Thank you for being part of my year—you’ve been a light in ways you might not even realize. Sa gitna ng lamig ng Pasko, sana maramdaman mo how deeply appreciated and loved you are, not just today, but every day.
+  </p>
+
+  <p>
+    May your heart be filled with hope, and may the coming year treat you gently. I’m rooting for your happiness—always.
+  </p>
+
+  <p class="signature">
+    — With warmth and care, <br>
+    R
+  </p>
+</body>
+</html>
